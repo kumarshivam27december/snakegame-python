@@ -10,3 +10,4 @@ while not game_over:
  
 pygame.quit()
 quit()
+# why the hell this game is not working
